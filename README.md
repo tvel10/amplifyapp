@@ -1,0 +1,2 @@
+# amplifyapp
+first aws test
